@@ -14,7 +14,7 @@ spec:
         app: sample-app
     spec:
       containers:
-      - image: regoo707/sample-web-app:7827ece1
+      - image: regoo707/sample-web-app:422b35be
         name: sample-app
         ports:
         - containerPort: 3000
