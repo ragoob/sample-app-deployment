@@ -14,7 +14,7 @@ spec:
         app: sample-app
     spec:
       containers:
-      - image: regoo707/sample-web-app:69c3562a
+      - image: regoo707/sample-web-app:e18a79de
         name: sample-app
         ports:
         - containerPort: 8080
