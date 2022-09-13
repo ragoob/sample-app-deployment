@@ -17,4 +17,4 @@ spec:
       - image: regoo707/sample-web-app:159c9d97
         name: sample-app
         ports:
-        - containerPort: 3000
+        - containerPort: 8080
